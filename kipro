@@ -83,34 +83,34 @@ https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ddc2zyaf9v8rs2ob84m1w/Gtv-hometv.png?rlkey=q53so172cfxige1f75de5d9hk&dl=0" group-title="Nasional", GTV 
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/157578
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="Nasional", SCTV (Auto)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/SCTV.jpg" group-title="Nasional", SCTV (Auto)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="Nasional", SCTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/SCTV.jpg" group-title="Nasional", SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162141
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="Nasional", INDOSIAR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/Indosiar.jpg" group-title="Nasional", INDOSIAR 
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="Nasional", INDOSIAR (HD)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/Indosiar.jpg" group-title="Nasional", INDOSIAR (HD)
 #http://iptvtree.net:8080/F26646/f950f250/162138
 #http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="Nasional", INDOSIAR (Auto)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/Indosiar.jpg" group-title="Nasional", INDOSIAR (Auto)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="Nasional", ANTV (Auto)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/ANTV.jpg" group-title="Nasional", ANTV (Auto)
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="Nasional", ANTV 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/ANTV.jpg" group-title="Nasional", ANTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
