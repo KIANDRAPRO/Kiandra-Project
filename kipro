@@ -54,19 +54,26 @@ https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
- 
-#EXTINF:-1 tvg-name="iNews" tvg-logo="https://dl.dropbox.com/scl/fi/ebyeeqqv06mjc9dq5nqgu/inews.png?rlkey=4lxo4zt56f62endkql165nykl&dl=0" group-title="NASIONAL",INEWS
-#EXTVLCOPT:http-user-agent=android-R+ #EXTVLCOPT:http-referrer=https://embed.rctiplus.com/ 
-https://tv.burhansyam.com/api/plus.m3u8?ch=4&t=666
- 
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_inews_small.png" tvg-id="iNews.id" tvg-name="ID: iNews " group-title="NASIONAL",iNews 
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
 #EXTINF:-1 tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/SCTV.jpg" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
- 
-#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/Indosiar.jpg" group-title="NASIONAL",Indosiar 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/ #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
- 
+
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/Indosiar.jpg",Indosiar
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
+
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://dl.dropbox.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0" group-title="NASIONAL",NET TV.
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
