@@ -260,6 +260,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://dl.dropboxusercontent.com/s/g6cqxvjwvh4ji6e/ent.png",ent
 https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|Referer=https://www.visionplus.id/
 
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/GOSSIP.png" group-title="ENTERTAINMENT",Gossip
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-8P3R2A0wtvI/YJZOjfq4vUI/AAAAAAAAEr4/UZ8fgBX_1eMgbTo5OhbYv9kV-KSIHnXKgCLcBGAsYHQ/s720/fmn-p%2B%25282%2529.png", FMN
@@ -378,6 +387,15 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/dunialain.m3u8
 
 ################################################################ LIFESTYLE ################################################################
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="LIFESTYLE",Cooking TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
 #EXTINF:-1 tvg-id="TFN.id" tvg-name="Vision Prime" tvg-logo="https://dl.dropbox.com/scl/fi/4q9a0c97qwjcfqi4xd0eo/Food-Network.jpeg?rlkey=1zesucscf4s15vabozighw7nu&dl=0" group-title="LIFESTYLE",The Food Network 
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
