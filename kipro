@@ -629,6 +629,28 @@ https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8|user-agent=mozilla/89 Ex
 
 ################################################################ KIDS ################################################################
 
+#EXTINF:-1 tvg-logo="https://picfile-baidu.babybus.com/PageArea/BabyBusFile/20220720/b40431f453854883b90c1df7b31a688f.png" group-title="KIDS",Baby Bus Channel
+https://babybustv.hendrikstar73.workers.dev/@BabyBusID|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iXD3m6v_prSsAlecaSOVv9QJn_c=/filters:quality(70)/vidio-web-prod-film/uploads/film/image_portrait/1284/diva-the-series-e596f4.jpg" group-title="KIDS",Diva The Series
+https://playback.hendrikstar73.workers.dev/@divatheseries.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="KIDS" tvg-id="indikids.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Fun_Planet.png/2048px-Fun_Planet.png",FUN PLANET
+#EXTVLCOPT:http-referrer=https://www.maxstream.tv
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ggv1ffLeDm0/maxresdefault.jpg" group-title="KIDS",My Little Pony
+https://mylittlepony.hendrikstar73.workers.dev/@littlepony|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Robocar_Poli.png" group-title="KIDS",Robocar Poli
+https://channel.hendrikstar73.workers.dev/@robocarpoli|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/spongebob/images/4/42/SpongeBob_SquarePants_logo.svg.png/revision/latest?cb=20150501212239" group-title="KIDS",Spongebob Live
+https://spongebob.hendrikstar73.workers.dev/channel/UCTJDdO9klWGpTekswnXreGQ|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/SuperToons.jpg" group-title="KIDS",Supertoons
+https://anime.hendrikstar73.workers.dev/@supertoons|user-agent=mozilla/89 ExoPlayerLib
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://dl.dropboxusercontent.com/s/6zbrigu3jkrncfr/animax.png", Animax
