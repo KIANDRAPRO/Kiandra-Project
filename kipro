@@ -942,56 +942,77 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://dl.dropboxusercontent.com/s/xfv0o53chpd82im/wion.png", WION
 http://210.210.155.37/uq2663/h/h91/index.m3u8
 
-################################################################ SPORT #########################################################
+################################################################ SPORT LOCAL #########################################################
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORT",SpoTV
+#EXTINF:-1 tvg-id= "SPOTV HD - [Channel 427].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORT LOCAL",SpoTV
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORT",SpoTV 2
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORT LOCAL",SpoTV 2
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="beinsports1indonesia.id" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SpoTV (I) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="beinsports3indonesia.id" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg",SpoTV 2 (I) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="Sportstars 3 - [Channel 99].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3 HD
 https://melon-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="SPORT" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
+#EXTINF:-1 group-title="SPORT LOCAL" tvg-id="Sportstars 4 HD - [Channel 424].id"" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",Sportstars 4 HD
 https://melon-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORT",Soccer Channel-HD
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORT LOCAL",Soccer Channel-HD
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="SPORT LOCAL", Soccer Channel
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRI_Sport_2022.svg/2560px-TVRI_Sport_2022.svg.png" group-title="SPORT LOCAL", TVRI Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+http://op-group1-swiftservehd-1.dens.tv/h/h238/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+################################################################ SPORT #########################################################
+
 
 
 #EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827d54aae33d56/a35aba41e139458d943185da7f8fe828.jpg" group-title="SPORT",Balap
