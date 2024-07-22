@@ -519,6 +519,11 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/citrabioskop.m3u8
 
 ################################################################ LIFESTYLE ################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true|X-Dt-Custom-Data=eyJ1c2VySWQiOiI0MzVhODk0MC1hYzc4LTQ0ZTItOTlkMS1hOGQxNDJhNjFhZGIiLCJzZXNzaW9uSWQiOiJORE0xWVRnNU5EQXRZV00zT0MwME5HVXlMVGs1WkRFdFlUaGtNVFF5WVRZeFlXUmlMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5JUVU1T1JVd3pSRkpOTERFM01EazBOemt5TURjc1lXNWtjbTlwWkN3d1gzWXlkM1V5Y1hOMExIVnVaR1ZtYVc1bFpDeDFibVJsWm1sdVpXUT0iLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9
+#EXTINF:-1 group-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/game-event-3291747-2758072.png" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjheyifIe_q9QgbI3lM3dyowgKHAsWPDFFuHkY9AO8RxCuGSViWek7l9LGTlxCVCOW_s9nCb87Fahk0AyKk96pVnhBnK8A7bwv0wJavG7IAsLxoai6F1xTjOVXgX8L1elZiuVTYqfTOZ4IOgOKFo9OHHC983ejg-ELaiVxDmbUKOLbNlDa_eiqDhV1IUw=w1200-h630-p-k-no-nu" group-title="LIFESTYLE", Dunia Games
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png" group-title="LIFESTYLE",Cooking TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -599,6 +604,28 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/lifestyle.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/piv79y8nqcmzblt/digione.png" group-title="LIFESTYLE", digiOne
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
+
+################################################################ KNOWLEDGE ################################################################
+
+#EXTINF:-1 group-title="KNOWLEDGE" tvg-id="nasatv.us" tvg-logo="https://seeklogo.com/images/N/NASA-logo-9411797223-seeklogo.com.png",NASA TV Media 
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png" group-title="KNOWLEDGE",ANIMAL PLANET
+https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_lld79xch/banner_hdpi.jpg" group-title="KNOWLEDGE", Digione
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/8ejeuz7bo3mx8r9uxyq2n/Discoveryasia.jpeg?rlkey=2bg11x88zp1qxyuhzlk6kas81&dl=0" group-title="KNOWLEDGE", DISCOVERY Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="KNOWLEDGE",Discovery Turbo
+https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 ################################################################ KIDS ################################################################
 
