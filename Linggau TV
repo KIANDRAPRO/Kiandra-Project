@@ -1,5 +1,6 @@
 //////////////////////////////////////LOKAL TV////////////////////////////////////////////
 //////////////////////////////////////BY:LLG TV /////////////////////////////////////////
+
 ------------------------------------ TRANS 7 -------------------------------------------
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/gala411/llglogo/main/trans7.png" group-title="🇮🇩 LOKAL ID 🇮🇩",01.TRANS 7 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
