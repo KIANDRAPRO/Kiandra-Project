@@ -612,7 +612,7 @@ https://melon-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_96.png",Celebrities tv
+#EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://i.ytimg.com/vi/IwpT2hrY01Q/hqdefault.jpg",Celebrities TV
 https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd|Referer=https://www.visionplus.id/
 
 #EXTINF:-1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="LIFESTYLE", Dens LifeStyle
@@ -630,7 +630,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/01.m3u8
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQabhCWoz8vcln1KbbRSxl_62oPiAWvi87yYA&s", Lifetime
 https://melon-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 group-title="LIFESTYLE"  tvg-logo="https://i.pinimg.com/736x/fb/31/48/fb3148df8e05c1f255dfe4d6e3649cfc.jpg",INSERT
+#EXTINF:-1 group-title="LIFESTYLE"  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/!nsert.jpg",INSERT
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 
 #EXTINF:-1 group-title="LIFESTYLE" tvg-logo="https://deadline.com/wp-content/uploads/2021/06/HGTV-logo-featured.jpg", HGTV
@@ -657,7 +657,7 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fas
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/FXyDJ7k/plutotvfood.png" group-title="LIFESTYLE",PLUTO TV Food
 https://jmp2.uk/SamsungTVPlus/GBAJ700002OS.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHY7T3KmmvFu2qX99vslw2J476vuq8zTpstw&s" group-title="LIFESTYLE", digiOne
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHY7T3KmmvFu2qX99vslw2J476vuq8zTpstw&s" group-title="LIFESTYLE", DigiOne
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
