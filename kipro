@@ -195,11 +195,10 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://cdn08jtedge.indihometv.com/dassdvr/130/rtv/manifest.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-#EXTINF:-1 group-title="NASIONAL" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://images.ott.biz.id/logo/news/sindo_news.png",SindoNews
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://images.ott.biz.id/logo/news/sindo_news.png" group-title="NASIONAL",SindoNews
 https://melon-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/master/Logo%20IPTV/CNN%20Indonesia.jpg" group-title="NASIONAL",CNN Indonesia
@@ -223,7 +222,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_tvri_small1.png?v=2.0.0.13" tvg-id="TVRI.id" tvg-name="ID: TVRI" group-title="NASIONAL",TVRI
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" tvg-id="TVRI.id" tvg-name="ID: TVRI" group-title="NASIONAL",TVRI
 https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="NASIONAL", MOJI (Indi)
@@ -257,89 +256,88 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 ################################################################ DAERAH ################################################################
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/TVRI_Jakarta.png" group-title="DAERAH", TVRI Jakarta
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TVRI_Lampung.png/640px-TVRI_Lampung.png" group-title="DAERAH", TVRI Lampung
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/TVRI_Maluku.png" group-title="DAERAH", TVRI Maluku
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Maluku
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/TVRI_Bali.png" group-title="DAERAH", TVRI Bali
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/TVRI_Bangka_Belitung.png" group-title="DAERAH", TVRI Bangka Belitung
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Bangka Belitung
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/TVRI_Bengkulu.png/800px-TVRI_Bengkulu.png" group-title="DAERAH", TVRI Bengkulu
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/TVRI_GORONTALO.svg/640px-TVRI_GORONTALO.svg.png" group-title="DAERAH", TVRI Gorontalo
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TVRI_Jawa_Barat.png" group-title="DAERAH", TVRI Jawa Barat
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/TVRI_Jawa_Tengah.png/800px-TVRI_Jawa_Tengah.png" group-title="DAERAH", TVRI Jawa Tengah
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/TVRI_Jawa_Timur.png/640px-TVRI_Jawa_Timur.png" group-title="DAERAH", TVRI Jawa Timur
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/TVRI_Kalimantan_Barat.png" group-title="DAERAH", TVRI Kalbar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Kalbar
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TVRI_Kalimantan_Selatan.svg/1913px-TVRI_Kalimantan_Selatan.svg.png" group-title="DAERAH", TVRI Kalsel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Kalsel
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/TVRI_Kalimantan_Tengah.png" group-title="DAERAH", TVRI Kalteng
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Kalteng
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/TVRI_Kalimantan_Timur.png" group-title="DAERAH", TVRI Kaltim
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Kaltim
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/ACEH.png" group-title="DAERAH", TVRI Aceh
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/NTB.png" group-title="DAERAH", TVRI NTB
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI NTB
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/NTT.png" group-title="DAERAH", TVRI NTT
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI NTT
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/TVRIPapuaLogo2019.svg/1200px-TVRIPapuaLogo2019.svg.png" group-title="DAERAH", TVRI Papua
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/RIAU.png" group-title="DAERAH", TVRI Riau
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/SULAWESI%20BARAT.png" group-title="DAERAH", TVRI Sulbar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sulbar
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/SULAWESI%20SELATAN.png" group-title="DAERAH", TVRI Sulsel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sulsel
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/SULAWESI%20TENGAH.png" group-title="DAERAH", TVRI Sulteng
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sulteng
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/SULAWESI%20TENGGARA.png" group-title="DAERAH", TVRI Sultra
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sultra
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://staging.tvri.go.id/assets/img_gallery/DAERAH/SULAWESI%20UTARA.png" group-title="DAERAH", TVRI Sulut
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sulut
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/TVRI_Sumatera_Barat.png/640px-TVRI_Sumatera_Barat.png" group-title="DAERAH", TVRI Sumbar
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sumbar
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/TVRI_Sumatera_Selatan.png" group-title="DAERAH", TVRI Sumsel
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sumsel
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/TVRI_Sumatera_Utara.png" group-title="DAERAH", TVRI Sumut
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Sumut
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/TVRI_Yogyakarta.png" group-title="DAERAH", TVRI Yogyakarta
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ITgomqe4r80G_YlUJO-ZLBdgztM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6441/tvri-tv-stream-f6cbb3.jpg" group-title="DAERAH", TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/index.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
 ################################################################ HBO GROUP ################################################################
